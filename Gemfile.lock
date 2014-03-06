@@ -41,8 +41,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  awesome_print (~> 1.2.0)
-  rake (~> 10.1.1)
+  awesome_print (~> 1.2)
+  rake (~> 10.1)
   rrd-track!
   rspec (~> 2.14)
-  webmock (~> 1.17.4)
+  webmock (~> 1.17)
