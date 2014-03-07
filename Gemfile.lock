@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rrd-track (1.0.0)
+    rrd-track (1.0.1)
       nokogiri (~> 1.6)
       typhoeus (~> 0.6)
 
@@ -13,7 +13,7 @@ GEM
     crack (0.4.2)
       safe_yaml (~> 1.0.0)
     diff-lcs (1.2.5)
-    ethon (0.6.2)
+    ethon (0.6.3)
       ffi (>= 1.3.0)
       mime-types (~> 1.18)
     ffi (1.9.3)
